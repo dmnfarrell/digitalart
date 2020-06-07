@@ -2,7 +2,7 @@ title: Learning Art with Krita
 
 description: Digital art blog
 
-url: http://dmnfarrell.github.com/digitalart
+url: "http://dmnfarrell.github.com/digitalart/"
 baseurl: "/digitalart"
 paginate_path: "/page:num/"
 permalink: /:categories/:title/

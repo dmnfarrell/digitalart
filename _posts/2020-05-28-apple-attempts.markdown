@@ -10,12 +10,12 @@ Four attempts at painting apples. The first is one of the first things I tried t
 
 <div class="row">
   <div class="column">
-    <img src="/img/apple1.png">
-    <img src="/img/apple2.png">
+    <img src="{{site.baseurl}}/img/apple1.png">
+    <img src="{{site.baseurl}}/img/apple2.png">
   </div>
   <div class="column">
-    <img src="/img/apple3.png">
-    <img src="/img/apple4.png">
+    <img src="{{site.baseurl}}/img/apple3.png">
+    <img src="{{site.baseurl}}/img/apple4.png">
   </div>
 </div>
 
