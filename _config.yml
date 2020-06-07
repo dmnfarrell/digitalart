@@ -1,0 +1,29 @@
+title: Learning Art with Krita
+
+description: Digital art blog
+
+url: http://dmnfarrell.github.com/digitalart
+baseurl: ""
+paginate_path: "/page:num/"
+permalink: /:categories/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Archive
+    url: /archive
+  - title: Categories
+    url: /categories
+
+social:
+  github: dmnfarrell
+  twitter: dmnfarrell
+
+#google_analytics: "UA-58263416-1"
