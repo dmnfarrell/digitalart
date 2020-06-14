@@ -1,6 +1,6 @@
-title: Learning Art with Krita
+title: Ealaín
 
-description: Digital art blog
+description: Learning Art with Krita
 
 url: "http://dmnfarrell.github.com/digitalart/"
 baseurl: "/digitalart"
@@ -10,7 +10,7 @@ permalink: /:categories/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 7
 
 navigation:
   - title: Home
@@ -21,6 +21,8 @@ navigation:
     url: /archive
   - title: Categories
     url: /categories
+  - title: Gallery
+    url: /gallery
 
 social:
   github: dmnfarrell

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Northern Ireland Beach"
+date:   2020-06-10
+categories: [landscape]
+thumbnail: /img/beach_ni.png
+---
+
+Beach, Northern Ireland.
+
+<img src="{{site.baseurl}}/img/beach_ni.png" alt="">

@@ -6,13 +6,4 @@ categories: [landscape]
 thumbnail: /img/clouds3.png
 ---
 
-## Painting
-
-Here are some pictures
-
-<figure>
-	<img src="{{ '/img/clouds3.png' | relative_url }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-
-
+<img src="{{ '/img/clouds3.png' | relative_url }}" alt="">

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Apple on table"
+date:   2020-06-13
+categories: [still life]
+thumbnail: /img/apple5.png
+---
+
+Apple on table.
+
+<img src="{{ '/img/apple5.png' | relative_url }}" alt="">
