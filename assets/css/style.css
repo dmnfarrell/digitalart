@@ -962,29 +962,6 @@ dd{
 
 /* gallery */
 
-@import url('https://fonts.googleapis.com/css?family=Barlow:400,500,700');
-
-$white: #fff;
-$black: #2e2e2e;
-$gray: #787878;
-$highlight: #ea8478;
-$footer: #f7f7f7;
-
-* {
-  box-sizing: border-box;
-  &::before, &::after {
-    box-sizing: border-box;
-  }
-}
-
-body {
-  font-family: 'Barlow', sans-serif;
-  font-size: 1.125rem;
-  line-height: 1.5;
-  color: $gray;
-  background: $white;
-  text-rendering: optimizeLegibility;
-}
 
 ul li {
   margin: 0 1.5rem 0 0;
@@ -1035,9 +1012,9 @@ nav {
   }
 }
 
-img {
+.img-gallery {
 	width: 100%;
-  height: 300px;
+  height: 250px;
 	object-fit: cover;
   transform: scale(1);
   transition: all 0.3s ease-in-out;
@@ -1060,12 +1037,6 @@ img {
   margin-left: -2rem;
 }
 
-.title {
-  color: $black;
-  font-size: 1.5rem;
-  font-weight: 700;
-}
-
 .category {
   font-size: 1rem;
   color: $gray;
@@ -1073,14 +1044,6 @@ img {
 
 .img-content {
   display: none;
-}
-
-.social, .copyright {
-  margin: 1rem;
-}
-
-.social li {
-  display: inline-block;
 }
 
 footer {
@@ -1091,7 +1054,7 @@ footer {
 
 @supports (display: grid) {
   .gallery .grid {
-    grid-gap: 1rem;
+    grid-gap: 2rem;
   }
 }
 
