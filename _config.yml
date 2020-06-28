@@ -5,7 +5,7 @@ description: Learning Art with Krita
 url: "http://dmnfarrell.github.com/digitalart/"
 baseurl: "/digitalart"
 paginate_path: "/page:num/"
-permalink: /:day/:year/:month/:title/
+permalink: /:day/:month/:year/:title/
 
 markdown: kramdown
 highlighter: rouge

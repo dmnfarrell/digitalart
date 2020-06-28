@@ -6,6 +6,4 @@ categories: [still life]
 thumbnail: /img/apple5.png
 ---
 
-Apple on table.
-
 <img src="{{ '/img/apple5.png' | relative_url }}" alt="">
