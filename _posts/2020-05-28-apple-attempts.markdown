@@ -6,8 +6,6 @@ categories: [still life]
 thumbnail: /img/apple3.png
 ---
 
-Four attempts at painting apples. The first is one of the first things I tried to paint.
-
 <div class="row">
   <div class="column">
     <img src="{{site.baseurl}}/img/apple1.png">
@@ -18,5 +16,3 @@ Four attempts at painting apples. The first is one of the first things I tried t
     <img src="{{site.baseurl}}/img/apple4.png">
   </div>
 </div>
-
-

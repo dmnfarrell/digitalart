@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Imaginary cottage"
+date:   2020-09-05
+categories: [landscape]
+thumbnail: /img/cottage1.png
+---
+
+<img src="{{ '/img/cottage1.png' | relative_url }}" alt="">
+
+
