@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Masks"
+date:   2020-09-08
+categories: [cartoons]
+thumbnail: /img/masks.png
+---
+
+<img src="{{ '/img/masks.png' | relative_url }}" alt="">
+
+
