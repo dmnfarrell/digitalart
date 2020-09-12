@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Imaginary cottage"
+title:  "Cottage"
 date:   2020-09-05
 categories: [landscape]
 thumbnail: /img/cottage1.png
