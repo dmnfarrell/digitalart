@@ -3,7 +3,7 @@ layout: post
 title:  "Northern Ireland Beach"
 date:   2020-06-10
 categories: [landscape]
-thumbnail: /img/beach_ni.png
+thumbnail: beach_ni.png
 ---
 
 Beach, Northern Ireland.

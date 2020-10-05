@@ -3,7 +3,7 @@ layout: post
 title:  "Krita Styles"
 date:   2020-06-03
 categories: [technique]
-thumbnail: /img/landscape1_blend.png
+thumbnail: landscape1_blend.png
 ---
 
 Here are three different methods for painting in Krita. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Apples on a table"
 date:   2020-06-20
 categories: [still life]
-thumbnail: /img/apples_table.png
+thumbnail: apples_table.png
 ---
 
 <a href="{{ '/img/apples_table.png' | relative_url }}">

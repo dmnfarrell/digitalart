@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Steep Mountain"
-date:   2020-10-04
+date:   2020-10-05
 categories: [landscape]
-thumbnail: /img/mountains4.png
+thumbnail: mountains4.png
 ---
 
 <img src="{{ '/img/mountains4.png' | relative_url }}" alt="">

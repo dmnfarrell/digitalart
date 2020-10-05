@@ -3,7 +3,7 @@ layout: post
 title:  "Candle"
 date:   2020-09-20
 categories: [landscape]
-thumbnail: /img/candle.png
+thumbnail: candle.png
 ---
 
 <img src="{{ '/img/candle.png' | relative_url }}" alt="">

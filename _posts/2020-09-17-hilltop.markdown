@@ -3,7 +3,7 @@ layout: post
 title:  "House on a hill"
 date:   2020-09-17
 categories: [landscape]
-thumbnail: /img/hilltop.png
+thumbnail: hilltop.png
 ---
 
 <img src="{{ '/img/hilltop.png' | relative_url }}" alt="">

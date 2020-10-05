@@ -3,7 +3,7 @@ layout: post
 title:  "Early attempts at apples"
 date:   2020-05-28
 categories: [still life]
-thumbnail: /img/apple3.png
+thumbnail: apple3.png
 ---
 
 <div class="row">

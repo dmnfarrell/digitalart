@@ -3,7 +3,7 @@ layout: post
 title:  "Clouds, two styles"
 date:   2020-06-26
 categories: [landscape]
-thumbnail: /img/clouds5.png
+thumbnail: clouds5.png
 ---
 
 <img src="{{ '/img/clouds5.png' | relative_url }}" alt="">

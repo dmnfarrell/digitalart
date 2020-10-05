@@ -3,7 +3,7 @@ layout: post
 title:  "Cumulonimbus clouds sunset"
 date:   2020-06-15
 categories: [landscape]
-thumbnail: /img/cumulonimbus.png
+thumbnail: cumulonimbus.png
 ---
 
 <img src="{{ '/img/cumulonimbus.png' | relative_url }}" alt="">

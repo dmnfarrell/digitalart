@@ -3,7 +3,7 @@ layout: post
 title:  "Empty wine bottle"
 date:   2020-06-17
 categories: [still life]
-thumbnail: /img/empty_bottle.png
+thumbnail: empty_bottle.png
 ---
 
 <img src="{{site.baseurl}}/img/empty_bottle.png" alt="">
