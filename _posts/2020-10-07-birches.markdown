@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Birches"
+date:   2020-10-07
+categories: [landscape]
+thumbnail: birches.png
+---
+
+<img src="{{ '/img/birches.png' | relative_url }}" alt="">
+
+Copied from an original painting by Karen Talton [here](https://karensfineart.blogspot.com/2010/05/birch-tree-lovers.html).
