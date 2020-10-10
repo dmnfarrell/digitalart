@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Corkagh Park, Dublin"
+date:   2020-09-28
+categories: [landscape]
+thumbnail: corkagh1.png
+---
+
+<img src="{{ '/img/corkagh1.png' | relative_url }}" alt="">
+
+
